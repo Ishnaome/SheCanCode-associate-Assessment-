@@ -47,3 +47,4 @@ public class Models {
         }
     }
 }
+// this is my model class for the idempotency gateway.
